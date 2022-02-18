@@ -1,5 +1,5 @@
 # Simple-intepreter-in-nodejs
-A simple itepreter i created in nodejs
+A simple intepreter i created in nodejs
 
 # Setup:
 to setup firs tmake sure you have nodejs installed
